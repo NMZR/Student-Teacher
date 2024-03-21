@@ -1,0 +1,7 @@
+AspringBoot Annotation represent 3 main annotation inside the project:
+1: @Enable AutoConfiguration: This eables Spring Boot automatic configuration.Spring Boot will automatically configure your project baed on the dependencies.
+For example, if you have the spring-boot-starter-web dependeny, Spring Boot assumes that you are developing a web appliicatoin and confiigures your application accordingly.
+2: @ComponentScan: This enables the Spring Boot component scan to find all of the components in the application
+3 :@configure :This annotation is used to define a configuration class that provides beans to the Spring application context.
+
+What is logger?
